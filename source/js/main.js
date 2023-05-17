@@ -4,6 +4,7 @@ import {Form} from './modules/form-validate/form';
 import {CustomSelect} from './modules/select/custom-select';
 import {uploadFile, uploadImageDrop} from './modules/input-file/init-upload';
 import {initMapOne} from './modules/init-map-one';
+import {initMapTwo} from './modules/init-map-two';
 
 // ---------------------------------
 
@@ -29,6 +30,7 @@ window.addEventListener('DOMContentLoaded', () => {
     window.form = form;
     form.init();
     initMapOne();
+    initMapTwo();
   });
 });
 

@@ -1,0 +1,144 @@
+{
+  "mapMarkers": [
+    {
+      "latLng":[55.0498, 82.9155],
+      "category": "gas",
+      "icon": "icon-gas-station",
+      "imgPath": "img/content/gas-1.jpg",
+      "imgAlt":"АЗС - Газпромнефть",
+      "title":"АЗС - Газпромнефть",
+      "text":"Декабристов д.22",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0306, 82.9466],
+      "category": "gas",
+      "icon": "icon-gas-station",
+      "imgPath": "img/content/gas-2.jpg",
+      "imgAlt":"АЗС - Роснефть",
+      "title":"АЗС - Роснефть",
+      "text":"Гоголя д.3",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0413, 82.9622],
+      "category": "gas",
+      "icon": "icon-gas-station",
+      "imgPath": "img/content/gas-3.jpg",
+      "imgAlt":"АЗС - Татнефть",
+      "title":"АЗС - Татнефть",
+      "text":"Воинская д.56",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0515, 82.9546],
+      "category": "airport",
+      "icon": "icon-airports",
+      "imgPath": "img/content/airport-1.jpg",
+      "imgAlt":"Аэропорт - Северный",
+      "title":"Аэропорт - Северный",
+      "text":"Северная д.33",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0320, 82.9095],
+      "category": "airport",
+      "icon": "icon-airports",
+      "imgPath": "img/content/airport-2.jpg",
+      "imgAlt":"Аэропорт - Восточный",
+      "title":"Аэропорт - Восточный",
+      "text":"Восточная д.66",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0492, 82.9204],
+      "category": "theatre",
+      "icon": "icon-theatre",
+      "imgPath": "img/content/theatre-1.jpg",
+      "imgAlt":"Кукольный театр",
+      "title":"Кукольный театр",
+      "text":"Иванова д.22",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0393, 82.9555],
+      "category": "theatre",
+      "icon": "icon-theatre",
+      "imgPath": "img/content/theatre-2.jpg",
+      "imgAlt":"Драматический театр",
+      "title":"Драматический театр",
+      "text":"Иванова д.23",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0415, 82.9188],
+      "category": "theatre",
+      "icon": "icon-theatre",
+      "imgPath": "img/content/theatre-3.jpg",
+      "imgAlt":"Театр музыкальной комедии",
+      "title":"Театр музыкальной комедии",
+      "text":"Иванова д.24",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0438, 82.9497],
+      "category": "cofee",
+      "icon": "icon-cofee",
+      "imgPath": "img/content/cofee-1.jpg",
+      "imgAlt":"Кофейня - Чашка кофе",
+      "title":"Кофейня - Чашка кофе",
+      "text":"Красный пр-т д.19",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0465, 82.9325],
+      "category": "cofee",
+      "icon": "icon-cofee",
+      "imgPath": "img/content/cofee-2.jpg",
+      "imgAlt":"Кофейня - На вынос",
+      "title":"Кофейня - На вынос",
+      "text":"Ленина д.3",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0369, 82.9261],
+      "category": "cofee",
+      "icon": "icon-cofee",
+      "imgPath": "img/content/cofee-3.jpg",
+      "imgAlt":"Кофейня - Бум КОФЕ",
+      "title":"Кофейня - Бум КОФЕ",
+      "text":"Выборная д.100",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0452, 82.9159],
+      "category": "dinning",
+      "icon": "icon-dining-room",
+      "imgPath": "img/content/dinning-1.jpg",
+      "imgAlt":"Столовая по домашнему",
+      "title":"Столовая по домашнему",
+      "text":"Крамского д.59",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0500, 82.9583],
+      "category": "dinning",
+      "icon": "icon-dining-room",
+      "imgPath": "img/content/dinning-2.jpg",
+      "imgAlt":"Столовая номер 1",
+      "title":"Столовая номер 1",
+      "text":"Новосибирская д.100",
+      "link":"https://sibevakuator.ru"
+    },
+    {
+      "latLng":[55.0327, 82.9437],
+      "category": "dinning",
+      "icon": "icon-dining-room",
+      "imgPath": "img/content/dinning-3.jpg",
+      "imgAlt":"Столовая - три казана",
+      "title":"Столовая - три казана",
+      "text":"Худякова д.8",
+      "link":"https://sibevakuator.ru"
+    }
+  ]
+}

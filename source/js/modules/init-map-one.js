@@ -62,7 +62,7 @@ const initMapOne = () => {
           iconLayout: 'default#image',
           iconImageHref: 'img/svg/map-pin.svg',
           iconImageSize: [40, 40],
-          iconImageOffset: [-40, -20],
+          iconImageOffset: [-20, -40],
         })
     );
   }

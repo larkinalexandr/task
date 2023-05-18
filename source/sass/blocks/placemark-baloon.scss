@@ -1,0 +1,59 @@
+.placemark-balloon {
+
+  &__inner {
+    display: flex;
+    position: relative;
+    width: 400px;
+    border-radius: 10px;
+    overflow: hidden;
+
+    background-color: $color-default-white;
+  }
+
+  &__img {
+    flex-shrink: 0;
+  }
+
+  &__wrap {
+    padding: 10px 40px 10px 10px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__title {
+    margin: 0;
+  }
+
+  &__text {
+    margin: 0;
+    flex-grow: 1;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+  }
+
+  &__link {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 14px;
+
+    @include hover-focus {
+      color: red;
+    }
+  }
+
+  &__close-btn {
+    position: absolute;
+    cursor: pointer;
+
+    right: 10px;
+    top: 10px;
+
+    @include hover-focus {
+      background-color: rgba(0, 208, 255, 0.78);
+    }
+  }
+
+}

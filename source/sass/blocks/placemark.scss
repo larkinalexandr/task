@@ -1,0 +1,12 @@
+.placemark {
+  &__icon {
+    display: grid;
+    place-content: center;
+
+    width: 40px;
+    height: 40px;
+    background-color: rgba(10, 10, 10, 0.6);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+}
